@@ -62,7 +62,7 @@
 
 ## Multi Balloon Talk
 
-- ????
+- 一度に複数バルーンを用いた会話を演出する
 - サイト: [1234](http://equal12.blogspot.jp/)
 
 ## getfgwnd
