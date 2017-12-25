@@ -2,6 +2,6 @@
 
 伺かWikiをベースにリンクなどを整えていく、つもり。
 
-- [SHIORI](SHIORI.md)
+- [MAKOTO](MAKOTO.md)
 - [SAORI](SAORI.md)
 - [リンク集](link.md)
