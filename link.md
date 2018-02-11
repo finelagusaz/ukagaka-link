@@ -36,7 +36,7 @@
 - [CROW・SSPリファレンス](http://crow.aqrs.jp/reference/all/)
 - [UKATEC Wiki*](http://wikiwiki.jp/ukatec/)
 
-### 辞書
+### 辞書(SHIORI)
 - [里々wiki](http://soliton.sub.jp/satori/)
 - [文Wiki「文屋」](http://emily.shillest.net/ayaya/?FrontPage)
 
@@ -57,8 +57,9 @@
 - [Encyclopedia of 伺か(と、互換アプリ)](http://dic.sstp.jp/)
 
 ## 交流・レビュー
-- [ゴースト回覧板３ｒｄ](http://jbbs.shitaraba.net/computer/44300/)
+- [噂と評判[改] 過去ログ保管庫\+](https://ghostreview.sakura.ne.jp/)
 - [伺的な感想やレビューのWiki](http://ghost.sakura.tv/dokuwiki)
+- [ゴースト回覧板３ｒｄ](http://jbbs.shitaraba.net/computer/44300/)
 
 ## アップローダ
 - [SoSiReMi - 伺かアップローダー](http://sosiremi.appspot.com/)
