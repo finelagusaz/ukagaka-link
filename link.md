@@ -2,7 +2,7 @@
 ## ポータル
 - [Disc-2](http://disc2.s56.xrea.com/)
     - ユーザー投稿型ニュースサイト
-- [霊界通信](http://ghost-log.sakuratan.com/)
+- [ghost-log](https://ghost-log.net/)
     - 伺か関係情報ブログ
 - [GHOST/BALLOON TOWN](http://ghosttown.mikage.jp/)
     - プレビューつきゴースト・バルーンの情報サイト
